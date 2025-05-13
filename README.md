@@ -73,5 +73,7 @@ document.getElementById("modal").style.display = "none";
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/153f6071-9a97-4b80-a5bb-874ffb3bd946)
 
+![image](https://github.com/user-attachments/assets/43a280cc-6d13-4754-a6cd-67f161c15f86)
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
